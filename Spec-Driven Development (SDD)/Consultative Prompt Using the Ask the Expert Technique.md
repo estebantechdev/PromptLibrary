@@ -4,6 +4,8 @@
 Analyze the project and ask me any questions you consider necessary to clarify the goal before proposing a solution.
 ```
 
+After receiving your exhaustive answers, the AI proposes a comprehensive and refined plan that is much closer to a final solution. 
+
 ## Examples
 
 ### Why Use This Technique for Database Modeling?
