@@ -1,13 +1,185 @@
-agents
-copilots
-del.txt
-gpts
-LICENSE
-llms
-mcps
-prompts
-README.md
-readmes
-skills
-system-prompts
-tools
+.
+├── agents
+│   └── .gitkeep
+├── copilots
+│   ├── abacus-ai
+│   │   ├── .gitkeep
+│   │   └── .gitkeep:Zone.Identifier
+│   ├── claude-code
+│   │   ├── .gitkeep
+│   │   └── .gitkeep:Zone.Identifier
+│   ├── github-copilot
+│   │   ├── .gitkeep
+│   │   └── .gitkeep:Zone.Identifier
+│   ├── .gitkeep
+│   └── openai-codex
+│       ├── .gitkeep
+│       └── .gitkeep:Zone.Identifier
+├── del.txt
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 01
+│   │   │   └── 9b82a56ce5e82b1c9214b9035e445bf782e916
+│   │   ├── 07
+│   │   │   └── 278a0be901a0a6489eb4f02e0b76c13befb10c
+│   │   ├── 18
+│   │   │   └── 89ecd8372dea67ddf27d98561f89ee9850febc
+│   │   ├── 1a
+│   │   │   └── 526b9c7535d12db80b223240479412f469538e
+│   │   ├── 20
+│   │   │   └── 6f1a3007bc2cbaa505268d99a27346bb6a3331
+│   │   ├── 27
+│   │   │   └── 7afbf2a2055530806f40f193c9af27e8023238
+│   │   ├── 3a
+│   │   │   └── 5a1541dc39f3d31d24bba77ef49e4a66c33bf6
+│   │   ├── 3d
+│   │   │   └── e45919aead37447c1dcf6882760479d88883c2
+│   │   ├── 3f
+│   │   │   ├── 3c20c8d6e6f4eceddf2fcff642c8652b47944d
+│   │   │   └── b423cbe891e6ee3c2b1aabce3fa7b14f9b6cc0
+│   │   ├── 47
+│   │   │   └── a45ae3ccfc2fea021e4eeb17990e2bc15131a0
+│   │   ├── 4c
+│   │   │   └── b700390316151de8d4ff711784ff83c0dcc470
+│   │   ├── 50
+│   │   │   └── cfc0adc1a00128fef37092567984af76048f58
+│   │   ├── 58
+│   │   │   └── c4dcdce8a65e9bc48583c98a124944c7a26d8d
+│   │   ├── 5a
+│   │   │   └── e5b90127d6748aaf18825706a8ac59c1fabbfb
+│   │   ├── 5e
+│   │   │   └── ccda2a94a55e382ba37306b65d4ea6bd2bb83e
+│   │   ├── 61
+│   │   │   └── 7e989011a1c10b480e0b61404ebeaa809d16f7
+│   │   ├── 7b
+│   │   │   └── 03b3acb7d5574caabd89306d7ba8c528a28518
+│   │   ├── 94
+│   │   │   └── 50c9b0b92353d1164a9ca1ef9c5c4b5d81e3b6
+│   │   ├── 96
+│   │   │   └── 820ff3282d8c9d0caee8e711a66c8b5e4d8ed6
+│   │   ├── ba
+│   │   │   └── 930aa3ac57a9246955adf35ba4ff3e19b094d2
+│   │   ├── c4
+│   │   │   └── 0b097e1d4dd51ee83331e8b22a19ee1c80dd5c
+│   │   ├── ca
+│   │   │   └── 68a2150fd8cbd3ab145236c0c99ff2f2ef0375
+│   │   ├── cd
+│   │   │   └── 2ceb14accc578e4c1f0179f2aae4ce4ec6ca9b
+│   │   ├── d5
+│   │   │   └── 64d0bc3dd917926892c55e3706cc116d5b165e
+│   │   ├── de
+│   │   │   └── 7660451ccacf1ac866ffb8c4df3fe2a02b3af3
+│   │   ├── e1
+│   │   │   ├── 2c4ca6df436da9daf3b0b682b4491708f65a1a
+│   │   │   └── aea94c81b268b78b43893af9ddeff37895b71b
+│   │   ├── e6
+│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── f1
+│   │   │   └── 0a97f6dbd129cc263674e569426ba5affe9cf9
+│   │   ├── fa
+│   │   │   └── 7b320f9d8f79f5825391bf5e471fbcd7832c3a
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-c105276e4e11b9d1902f1ea02cacdab22474eeb2.idx
+│   │       ├── pack-c105276e4e11b9d1902f1ea02cacdab22474eeb2.pack
+│   │       └── pack-c105276e4e11b9d1902f1ea02cacdab22474eeb2.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── .gitkeep
+├── gpts
+│   └── .gitkeep
+├── LICENSE
+├── llms
+│   └── .gitkeep
+├── mcps
+│   └── .gitkeep
+├── prompts
+│   ├── .gitkeep
+│   ├── patterns
+│   │   └── Patterns.md
+│   ├── README.md
+│   └── Spec-Driven Development (SDD) with AI
+│       ├── Consultative Prompt Using the Ask the Expert Technique.md
+│       ├── Process Rules Reinforcement.md
+│       └── Sample Expert Architect Persona Prompt.md
+├── README.md
+├── readmes
+│   └── .gitkeep
+├── skills
+│   └── .gitkeep
+├── system-prompts
+│   └── .gitkeep
+└── tools
+    ├── agent-teams-lite
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── engram
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── figma
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── .gitkeep
+    ├── +google-tools
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── jira
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── llms-txt
+    │   └── .gitkeep
+    ├── mcp-inspector
+    │   └── .gitkeep
+    ├── opencode
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── openrouter
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    ├── openspec
+    │   ├── .gitkeep
+    │   └── .gitkeep:Zone.Identifier
+    └── +testing-sites
+        ├── .gitkeep
+        └── .gitkeep:Zone.Identifier
+
+74 directories, 109 files
