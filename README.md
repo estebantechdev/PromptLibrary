@@ -7,7 +7,7 @@ A curated and structured guide to the AI ecosystem, organizing tools, platforms,
 - Agents
 - Copilots
 - GPTs
-- LLMss
+- LLMs
 - MCPs
 - Prompts
 - Readmes
